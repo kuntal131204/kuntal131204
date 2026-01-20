@@ -1,5 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fd7289a2-27e9-4369-8649-54c11426878b" /><h1 align="center">
-  Hi 👋, I'm Kuntal
+Hi 👋, I'm Kuntal
 </h1>
 
 <p align="center">
