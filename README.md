@@ -101,11 +101,8 @@ Exploring **Artificial Intelligence**, with a growing interest in **Backend Deve
   <a href="mailto:business.teamkuntal@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35"/>
   </a>
-  <a href="https://kuntalghoshportfolio.vercel.app/" target="_blank">
-    <img src="https://www.flaticon.com/free-icon/search-engine_6810583?term=browser&page=1&position=13&origin=tag&related_id=6810583" height="35"/>
-  </a>
   <a href="https://www.instagram.com/_bytekicker" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="35"/>
+    <img src="https://en.wikipedia.org/wiki/File:Instagram_logo_2022.svg" height="35"/>
   </a>
 </p>
 
