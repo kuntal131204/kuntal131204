@@ -102,7 +102,7 @@ Exploring **Artificial Intelligence**, with a growing interest in **Backend Deve
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35"/>
   </a>
   <a href="https://www.instagram.com/_bytekicker" target="_blank">
-    <img src="https://en.wikipedia.org/wiki/File:Instagram_logo_2022.svg" height="35"/>
+    <img src="Instagram_logo_2022.svg" height="35"/>
   </a>
 </p>
 
